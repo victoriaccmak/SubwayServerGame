@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Music/BgMusic.mp3</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Music/EndGameBgMusic.mp3</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Music/PlayBgMusic.mp3</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/AlarmRing.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/BtnSelectSnd.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/ClosingTone.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/DoorbellRing.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/DoorClose.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/Fail.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/LettuceDropSound.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/OpeningTone.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/PaperFlipSound.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/PencilWritingSound.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/PlopSound.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/Purchase.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/SauceSqueezeSound.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/Select.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/SlideSnd.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/StepSnd.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Audio/Sounds/Success.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Fonts/DescFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Fonts/RemainingPiecesFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Fonts/ScoreFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Fonts/WritingFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/CloseToOpen.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/ezgif.com-gif-maker.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/FrontCounter.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Instr1.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Instr2.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Instr3.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Instr4.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Instr5.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Instr6.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Instr7.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Instr8.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Instr9.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Notepad.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Room.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Screen.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/Screen2.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/ShopBg.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/StoreRoof.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/SubwayLogo.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Backgrounds/WrapperBg.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/AddSauceBtn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/arrowA.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ArrowD.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/BackTab.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/BbqBottle.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/BbqBottleTop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/BbqDrop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/BlackForestHamContainer.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/BlackForestHamSlice.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/CheckOrdersTab.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/CheddarContainer.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/CheddarSlice.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ChickenContainer.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ChipotleBottle.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ChipotleBottleTop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ChipotleDrop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/CucumberContainer.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/CucumberSlice.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Customer1Walker.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Customer2Walker.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Customer3Walker.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Customer4Walker.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Customer5Walker.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Customer6Walker.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Customer7Walker.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Customer8Walker.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/CuttingScale.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Doorbell.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/FinishBtn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/GarbageBtn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/GarbageHoverBtn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/GuidingLine.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/HoneyMustardBottle.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/HoneyMustardBottleTop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/HoneyMustardDrop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/InstBtn.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ItalianBreadBottom.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ItalianBreadFull.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ItalianBreadTop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ItalianHerbsCheeseBottom.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ItalianHerbsCheeseFull.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ItalianHerbsCheeseTop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Knife.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/KnifeCutting.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/KnifeRotated.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Lettuce.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/LettuceContainer.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/MenuBtn.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/OldEnglishContainer.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/OldEnglishSlice.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Olive.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/OliveContainer.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Order1Btn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Order2Btn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Order3Btn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Order4Btn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Order5Btn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Order6Btn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Order7Btn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Order8Btn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/OrderNumberSelectionBox.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/OvenTimer.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/PerfectSprinkleLine.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/PerfectToastLine.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/PickleContainer.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/PickleSlice.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/PlayBtn.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Poster1.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Poster2.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/PurchaseBtn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/PurchaseBtnLocked.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/PurchaseHoverBtn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Radio.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/RanchBottle.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/RanchBottleTop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/RanchDrop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/RightArrow.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/RoastChicken.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SalamiContainer.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SalamiSlice.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SauceStorage.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ScalePointer.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/Scooper.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ShopBtn.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SingleLettuceShred.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SprinklingBarEmpty.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SprinklingBarFull.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/StartBtn.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SweetChiliBottle.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SweetChiliBottleTop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SweetChilliDrop.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SwissContainer.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/SwissSlice.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/TakeOrderBtn.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ToasterBarEmpty.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ToasterBarFull.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ToasterOven.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ToastingScale.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/TomatoContainer.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/TomatoSlice.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/ToppingsScale.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/WaitingScale.jpg</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/WholeWheatBottom.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/WholeWheatFull.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS3/Assignments/PASS3/SubwayServer/SubwayServer/Content/Images/Sprites/WholeWheatTop.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
